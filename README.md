@@ -1,2 +1,2 @@
 # Responsive-web-pages-
-This is a template of a responsive web page
+These are some samples of different templates of responsive web pages that can be accessed on any device
